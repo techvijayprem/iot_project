@@ -1,0 +1,8 @@
+3SD6BJ047SWTRDP3
+
+
+gas  esp32
+ 
+VCC	3V3
+GND	GND
+DO	D34
